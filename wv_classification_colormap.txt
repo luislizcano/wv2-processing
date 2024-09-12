@@ -1,0 +1,11 @@
+0 140 140 140 255 shadow
+1 255 255 255 255 cloud
+2 98 30 1 255 soil
+3 31 89 204 255 water
+5 226 217 36 255 dead grass
+6 124 205 17 255 marsh
+7 173 99 9 255 scrub
+8 39 211 16 255 grass
+9 16 111 0 255 forested upland
+10 30 230 130 255 forested wetland
+11 30 30 30 255 developed

@@ -1,0 +1,3 @@
+[submodule "imagery_utils"]
+	path = imagery_utils
+	url = https://github.com/PolarGeospatialCenter/imagery_utils.git
